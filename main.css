@@ -14,7 +14,7 @@ h1 {
   font-family: Arial
   }
   div {
-    background-color: darkcyan;
+    background-color: rgb(100, 0, 139);
     text-align: right;
   }
   th, td {
