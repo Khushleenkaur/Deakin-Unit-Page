@@ -14,7 +14,10 @@ h1 {
   font-family: Arial
   }
   div {
-    background-color: rgb(100, 0, 139);
+    /* Priyanka's contribution */
+
+  background-color: lightgreen; /* Change background color to light green */
+
     text-align: right;
   }
   th, td {
